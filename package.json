@@ -1,0 +1,15 @@
+{
+    "name": "flv2aac",
+    "version": "1.0.0",
+    "main": "main.js",
+    "bugs": {
+        "url": "https://github.com/Xmader/flv2aac/issues"
+    },
+    "homepage": "https://github.com/Xmader/flv2aac#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Xmader/flv2aac.git"
+    },
+    "author": "Xmader",
+    "license": "Apache-2.0"
+}
