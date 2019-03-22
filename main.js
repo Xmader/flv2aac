@@ -5,6 +5,7 @@ const FLVDemuxer = require("./flvdemuxer.js")
 
 /**
  * 计算adts头部
+ * @see https://blog.jianchihu.net/flv-aac-add-adtsheader.html
  * @typedef {Object} AdtsHeadersInit
  * @property {number} audioObjectType
  * @property {number} samplingFrequencyIndex
